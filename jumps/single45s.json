@@ -1,0 +1,107 @@
+{
+    "single45s": [
+        {
+            "name": "1bm 9-15",
+            "landing_speed": 0.216977,
+            "distance": 9,
+            "airtime": 28,
+            "reward": 5
+        },
+        {
+            "name": "1bm 7-7",
+            "landing_speed": 0.216977,
+            "distance": 7,
+            "airtime": 21,
+            "reward": 10
+        },
+        {
+            "name": "6bm 5-0.5 to anvil",
+            "landing_speed": 0.301233,
+            "distance": 5.125,
+            "airtime": 13,
+            "reward": 15
+        },
+        {
+            "name": "6bm 5-1 to pane",
+            "landing_speed": 0.301233,
+            "distance": 5.4375,
+            "airtime": 14,
+            "reward": 15
+        },
+        {
+            "name": "1bm 9-15 to chest",
+            "landing_speed": 0.216977,
+            "distance": 9.0625,
+            "airtime": 28,
+            "reward": 15
+        },
+
+
+        {
+            "name": "1bm slab to fence 4b",
+            "landing_speed": 0.216977,
+            "distance": 4.4375,
+            "airtime": 12,
+            "reward": 20
+        },
+        {
+            "name": "1bm 3bc 3.5+1",
+            "landing_speed": 0.22065,
+            "distance": 3.5,
+            "airtime": 9,
+            "reward": 30
+        },
+        {
+            "name": "1bm 3bc 5-1",
+            "landing_speed": 0.22065,
+            "distance": 5,
+            "airtime": 14,
+            "reward": 35
+        },
+        {
+            "name": "2bm x triple neo",
+            "landing_speed": 0.224579,
+            "distance": 4.424579,
+            "airtime": 12,
+            "reward": 70,
+            "neo": true
+        },
+        {
+            "name": "Ladder backwalled 3bm 4+0.5",
+            "landing_speed": 0.260779,
+            "distance": 4,
+            "airtime": 10,
+            "reward": 40
+        },
+        {
+            "name": "Shift bwmm slab to fence 4b",
+            "landing_speed": 0.214504,
+            "distance": 4.375,
+            "airtime": 12,
+            "reward": 45
+        },
+
+
+        {
+            "name": "6bm ladder to block 4+1",
+            "landing_speed": 0.301233,
+            "distance": 3.875,
+            "airtime": 9,
+            "reward": 50
+        },
+        {
+            "name": "1bm repeater to cocoa bean 4b",
+            "landing_speed": 0.216977,
+            "distance": 4.6875,
+            "airtime": 13,
+            "reward": 55
+        },
+        {
+            "name": "Benjamaster7's 6bm 34.875-252",
+            "landing_speed": 0.301233,
+            "distance": 34.875,
+            "airtime": 115,
+            "reward": 90
+        }
+    ]
+}

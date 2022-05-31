@@ -1,0 +1,102 @@
+{
+    "double45s": [
+        {
+            "name": "chest to block 4b",
+            "landing_speed": 0.214177,
+            "distance": 4.0625,
+            "airtime": 11,
+            "reward": 50
+        },
+        {
+            "name": "19bm 7-5.5 to fence",
+            "landing_speed": 0.316594,
+            "distance": 7.375,
+            "airtime": 20,
+            "reward": 60
+        },
+        {
+            "name": "6bm 7-5",
+            "landing_speed": 0.304784,
+            "distance": 7,
+            "airtime": 19,
+            "reward": 65
+        },
+        {
+            "name": "5bm 4.8125b",
+            "landing_speed": 0.299462,
+            "distance": 4.8125,
+            "airtime": 12,
+            "reward": 65
+        },
+        {
+            "name": "19bm 10-16 to chest",
+            "landing_speed": 0.316594,
+            "distance": 10.0625,
+            "airtime": 29,
+            "reward": 70
+        },
+        {
+            "name": "19bm ladder to chest 4+1",
+            "landing_speed": 0.316594,
+            "distance": 3.9375,
+            "airtime": 9,
+            "reward": 75
+        },
+        {
+            "name": "1.1875bm 4.4375b",
+            "landing_speed": 0.228096,
+            "distance": 4.4375,
+            "airtime": 12,
+            "reward": 75
+        },
+        {
+            "name": "1bm 3.5+1",
+            "landing_speed": 0.220081,
+            "distance": 3.5,
+            "airtime": 9,
+            "reward": 100
+        },
+        {
+            "name": "4.75bm 4.8125b",
+            "landing_speed": 0.29777,
+            "distance": 4.8125,
+            "airtime": 12,
+            "reward": 110
+        },
+        {
+            "name": "1bm 5-1",
+            "landing_speed": 0.220081,
+            "distance": 5,
+            "airtime": 14,
+            "reward": 135
+        },
+        {
+            "name": "cake to thin cobble wall 4b",
+            "landing_speed": 0.214177,
+            "distance": 4.375,
+            "airtime": 12,
+            "reward": 165
+        },
+        {
+            "name": "0.9375bm repeater to cocoa bean 4b",
+            "landing_speed": 0.216895,
+            "distance": 4.6875,
+            "airtime": 13,
+            "reward": 180
+        },
+        {
+            "name": "1bm 6-1 to ladder",
+            "landing_speed": 0.220081,
+            "distance": 5.3,
+            "airtime": 15,
+            "reward": 200
+        },
+        {
+            "name": "1bm 3bc 4b to anvil",
+            "landing_speed": 0.223516,
+            "distance": 4.125,
+            "airtime": 11,
+            "reward": 240
+        }
+    ]
+}
